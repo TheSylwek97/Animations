@@ -14,7 +14,7 @@ namespace KsiazkaKucharska
 
             MainPage = new MainPage(CategoryDataType.Dessers);
         }
-
+        /*
         public static ImageSource GetImageByCategory(CategoryDataType cate)
         {
             switch (category)
@@ -26,7 +26,7 @@ namespace KsiazkaKucharska
                 default:
                     return ImageSource.FormFile("123");
             }
-        }
+        }*/
         protected override void OnStart()
         {
             // Handle when your app starts

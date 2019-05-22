@@ -3,10 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="KsiazkaKucharska.FormPage">
     <ContentPage.Content>
-        <StackLayout>
+        <Grid RowSpacing="0">
+
+            <Grid.RowDefinitions>
+                <RowDefinitions Height="***" />
+                <RowDefinitions Height="*"/>
+            </Grid.RowDefinitions>
+
+
+            <StackLayout Grid.Row="2" BackgroundColor="Aqua">
             <Label Text="Welcome to Xamarin.Forms!"
                 VerticalOptions="CenterAndExpand" 
                 HorizontalOptions="CenterAndExpand" />
         </StackLayout>
+
+        </Grid>
     </ContentPage.Content>
 </ContentPage>

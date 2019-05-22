@@ -1,0 +1,10 @@
+C:\Users\Sylwia\Documents\Git\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\obj\Debug\netstandard2.0\KsiazkaKucharska.csprojAssemblyReference.cache
+C:\Users\Sylwia\Documents\Git\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Sylwia\Documents\Git\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\obj\Debug\netstandard2.0\CategoryPage.xaml.g.cs
+C:\Users\Sylwia\Documents\Git\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\obj\Debug\netstandard2.0\FormPage.xaml.g.cs
+C:\Users\Sylwia\Documents\Git\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+C:\Users\Sylwia\Documents\Git\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Sylwia\Documents\Git\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\obj\Debug\netstandard2.0\RecipePage.xaml.g.cs
+C:\Users\Sylwia\Documents\Git\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\obj\Debug\netstandard2.0\KsiazkaKucharska.csproj.CoreCompileInputs.cache
+C:\Users\Sylwia\Documents\Git\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\obj\Debug\netstandard2.0\KsiazkaKucharska.AssemblyInfoInputs.cache
+C:\Users\Sylwia\Documents\Git\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\KsiazkaKucharska\obj\Debug\netstandard2.0\KsiazkaKucharska.AssemblyInfo.cs
